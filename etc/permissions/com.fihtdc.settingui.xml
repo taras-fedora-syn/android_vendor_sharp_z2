@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+	  <!-- FIH Inlife UI Feature -->
+    <feature name="com.fihtdc.inlifeui.feature" />
+    <!-- FIH Inlife UI setting style -->
+    <feature name="com.fihtdc.inlifeui.settings.style.tab" />
+    <feature name="com.fihtdc.inlifeui.settings.style.dashboard" />
+    
+    <feature name="com.fihtdc.inlifeui.settings.search" />
+    
+    <!-- Android default Style -->
+    <!-- <feature name="com.fihtdc.inlifeui.settings.style.android" /> -->
+    
+    <!-- Solid Style Icon -->
+    <feature name="com.android.settings.solidcolor" />
+		
+</permissions>

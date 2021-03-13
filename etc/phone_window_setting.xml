@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<phone_window>
+<profile locale="INDIA">
+    <feature name="triple_power_enmergency_call">
+        <item name="timeout" value="500"/>
+    </feature>
+</profile>
+</phone_window>

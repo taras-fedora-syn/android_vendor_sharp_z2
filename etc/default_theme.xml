@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Table specifying mapping between SKU ID and Theme package on different projects.
+-->
+
+<DefaultTheme>
+    <!-- CDA path -->
+    <prefix>
+        <item name ="wallpaper">/system/CDA/:skuid:/content/wallpaper</item>
+    </prefix>
+    <!-- JGR -->
+    <project name="TSP">        
+        <sku id="300TW">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper> 
+        </sku>
+        <sku id="3ZZZT">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper>
+        </sku>
+        <sku id="300IN">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_navy.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper>
+        </sku>
+        <sku id="300A0">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Krypton.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper> 
+        </sku>
+        <sku id="300ID">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_dark.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Krypton.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper> 
+        </sku>
+        <sku id="300ZT">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper>
+        </sku>
+        <sku id="300CN">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper>
+        </sku>
+        <sku id="300ZC">
+            <item name="defaultpkg">com.fihtdc.theme.sharp01</item>
+            <item name="wallpaper">wallpaper_white.jpg</item>
+            <item name="ringtone">Ringtone1_(CPU).mp3</item>
+            <item name="notification">Notification13_(Notice).mp3</item>
+            <item name="message_notification">Notification07_(Pizzicato).mp3</item>
+            <item name="alarm">Neon.ogg</item>
+            <mapping-wallpaper type="propertyWallpaper" value="01">wallpaper_01_white.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="02">wallpaper_02_dark.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="04">wallpaper_03_green.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="06">wallpaper_04_navy.jpg</mapping-wallpaper>
+            <mapping-wallpaper type="propertyWallpaper" value="08">wallpaper_05_pink.jpg</mapping-wallpaper>
+        </sku>
+        <sku id="100IN">
+            <item name="defaultpkg">com.fihtdc.theme.ThemeContentFIHGeneric</item>
+            <item name="wallpaper">infocus_wallpaper_105.png</item>
+            <item name="lockscreen">infocus_lock_105.png</item>
+            <item name="ringtone">Cicada.ogg</item>
+            <item name="notification">Rhea.ogg</item>
+            <item name="message_notification">Rhea.ogg</item>
+            <item name="alarm">Oxygen.ogg</item>
+        </sku>
+    </project>
+    
+</DefaultTheme>

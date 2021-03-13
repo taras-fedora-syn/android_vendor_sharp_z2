@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<filter-data>
+    <CATEGORY_WEATHER>
+        <PKG>com.fihtdc.providers.weather</PKG>
+        <PKG>com.fihtdc.weatherservice</PKG>
+        <PKG>com.fihtdc.weather</PKG>
+    </CATEGORY_WEATHER>
+
+    <CATEGORY_GOOGLE>
+        <PKG>com.google.android.partnersetup</PKG>
+        <PKG>com.google.android.gsf.login</PKG>
+        <PKG>com.google.android.feedback</PKG>
+        <PKG>com.google.android.apps.uploader</PKG>
+        <PKG>com.google.android.syncadapters.calendar</PKG>
+        <PKG>com.google.android.gms</PKG>
+        <PKG>com.google.android.backuptransport</PKG>
+        <PKG>com.google.android.gsf</PKG>
+        <PKG>com.google.android.syncadapters.contacts</PKG>
+    </CATEGORY_GOOGLE>
+
+    <CATEGORY_FM>
+        <PKG>com.fihtdc.fmadapterservice</PKG>
+        <PKG>com.fihtdc.fmradio</PKG>
+    </CATEGORY_FM>
+
+    <CATEGORY_CALENDAR>
+        <PKG>com.android.calendar</PKG>
+        <PKG>com.android.providers.calendar</PKG>
+    </CATEGORY_CALENDAR>
+
+    <CATEGORY_REMOVE>
+        <PKG>com.fihtdc.AUIR</PKG>
+        <PKG>com.fihtdc.AprUploadService</PKG>
+        <PKG>com.android.proxyhandler</PKG>
+        <PKG>com.android.shell</PKG>
+        <PKG>com.fihtdc.OTAUpdate</PKG>
+        <PKG>com.android.pacprocessor</PKG>
+        <PKG>com.fihtdc.DeviceMonitorControl</PKG>
+    </CATEGORY_REMOVE>
+
+    <!---->
+    <CATEGORY_NFC>
+        <PKG>com.android.nfc</PKG>
+        <PKG>com.fihtdc.nfcfiletransfer</PKG>
+    </CATEGORY_NFC>
+    <!---->
+
+    <!-- Device should be get from ro.product.device -->
+    <!-- MC2 for FET 03TW -->
+    <Remove-Info Device="MC2" Brand="InFocus" Carrier="Far EasTone" Locale="TAIWAN, REPUBLIC OF CHINA">com.android.nfc</Remove-Info>
+    <!-- PROJ LSO -->
+    <Remove-Info Device="LSO">com.android.nfc</Remove-Info>
+    <!-- PROJ TX3 -->
+    <Remove-Info Device="TX3">com.android.nfc</Remove-Info>
+
+    <FMRADIO-ICON>com.fihtdc.fmradio</FMRADIO-ICON>
+    <CALENDAR-ICON>com.android.calendar</CALENDAR-ICON>
+    <NFC-ICON>com.fihtdc.nfcfiletransfer</NFC-ICON>
+    <WEATHER-ICON>com.fihtdc.weather</WEATHER-ICON>
+</filter-data>

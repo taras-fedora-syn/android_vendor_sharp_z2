@@ -1,0 +1,7 @@
+CMD_SET_CPU_CORE_MIN com.imangi.templerun2 3
+CMD_SET_VCORE com.antutu.ABenchMark 3 
+CMD_SET_VCORE com.antutu.ABenchmark 3
+CMD_SET_SCHED_HTASK_THRESH com.antutu.ABenchMark 500
+CMD_SET_SCHED_AVG_HTASK_AC com.antutu.ABenchMark 39
+CMD_SET_SCHED_AVG_HTASK_THRESH com.antutu.ABenchMark 650
+

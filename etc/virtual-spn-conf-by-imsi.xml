@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByImsi version="1">
+<virtualSpnOverride imsipattern="xxxxx2080120801xxx67" name="Virgin"/>
+<virtualSpnOverride imsipattern="xxxxx525053095" name="GT 4G"/>
+<virtualSpnOverride imsipattern="xxxxx525053096" name="GT 4G"/>
+</virtualSpnOverridesByImsi>

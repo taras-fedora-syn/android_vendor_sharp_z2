@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hmsars>
+	<sar hwm="D77" value="Head max SAR 1g 0.314W/Kg\nBody max SAR 1g 0.419W/Kg"/>
+	<sar hwm="G10" value="Head max SAR 1g 1.356W/Kg\nBody max SAR 1g 1.516W/Kg"/>
+	<sar hwm="G20" value="Head Max SAR 1g 0.479W/Kg\nBody Max SAR 1g 0.593W/Kg"/>
+	<sar hwm="G30" value="0.278Kg"/>
+	<sar hwm="G35" value="Head max SAR 1g 0.537W/Kg\nBody max SAR 1g 0.677W/Kg"/>
+	<sar hwm="G36" value="Head max SAR 1g 0.537W/Kg\nBody max SAR 1g 0.677W/Kg"/>
+	<sar hwm="G40" value="Head Max SAR 1g 0.342W/Kg\nBody Max SAR 1g 0.811W/Kg"/>
+	<sar hwm="G43" value="Head Max SAR 1g 0.342W/Kg\nBody Max SAR 1g 0.811W/Kg"/>
+	<sar hwm="G44" value="Head Max SAR 1g 0.342W/Kg\nBody Max SAR 1g 0.811W/Kg"/>
+	<sar hwm="G60" value="Head Max SAR 1g 0.666W/Kg\nBody Max SAR 1g 0.888W/Kg"/>
+	<sar hwm="G3T" value="Head Max SAR 1g 0.653W/Kg\nBody Max SAR 1g 0.961W/Kg"/>
+	<sar hwm="G41" value="Head Max SAR 1g 0.771W/Kg\nBody Max SAR 1g 0.655W/Kg"/>
+	<sar hwm="G42" value="Head Max SAR 1g 0.771W/Kg\nBody Max SAR 1g 0.655W/Kg"/>
+	<sar hwm="ZD1" value="Head max SAR 1g 0.959W/Kg\nBody max SAR 1g 0.671W/Kg"/>
+	<sar hwm="ZL2" value="Head Max SAR 1g 0.785W/Kg\nBody Max SAR 1g 0.850W/Kg"/>
+	<sar hwm="ZL3" value="Head Max SAR 1g 0.710W/Kg\nBody Max SAR 1g 0.846W/Kg"/>
+	<sar hwm="ZM1-India" value="Head Max SAR 1g 1.260W/Kg\nBody Max SAR 1g 0.512W/Kg"/>
+	<sar hwm="ZM1" value="Head Max SAR 1g 1.260W/Kg\nBody Max SAR 1g 0.512W/Kg"/>
+</hmsars>

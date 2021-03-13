@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="PowerLog">on</entry>
+<entry key="PwrRTCal">on</entry>
+<entry key="PwrChargingRec">on</entry>
+<entry key="NetData">on</entry>
+<entry key="CPUtemp">off</entry>
+<entry key="Current">off</entry>
+<entry key="BigCurrent">off</entry>
+<entry key="ScreenState">off</entry>
+<entry key="SignalStrength">off</entry>
+<entry key="Brightness">on</entry>
+<entry key="BrightnessNP">off</entry>
+<entry key="Charging">off</entry>
+<entry key="Plugged">off</entry>
+<entry key="Voltage">on</entry>
+<entry key="BatteryHealth">off</entry>
+<entry key="TopAP">on</entry>
+<entry key="CPUFreqUsage">off</entry>
+<entry key="WifiState">on</entry>
+<entry key="GPSState">off</entry>
+<entry key="BTState">off</entry>      
+<entry key="NFCState">off</entry>
+<entry key="VoiceCallState">off</entry>
+<entry key="SoftApState">off</entry>    
+<entry key="BTTethering">off</entry>
+<entry key="BatteryUsage">on</entry>
+<entry key="PmixKeepDay">14</entry>
+<entry key="UploadTime">2350</entry>
+<entry key="SystemLogging">off</entry>
+<entry key="SystemLogRotate">5</entry>
+<entry key="PowerMixDeveloperMode">on</entry>
+<entry key="VNA">50.0|140|CP|950|1400</entry>
+<entry key="VN2">50.0|140|CP|950|1200</entry>
+<entry key="PHX">65.0|140|CP|950|1400</entry>
+<entry key="MC2">40.0|120|CP|950|1000</entry>
+<entry key="MCS">40.0|120|CP|950|1200</entry>
+<entry key="LSO">40.0|120|CN|950|1000</entry>
+<entry key="TX3">40.0|120|CP|950|1200</entry>
+<entry key="VKY">43.0|140|CP|950|1200</entry>
+<entry key="VK3">43.0|140|CP|950|1200</entry>
+<entry key="TID">40.0|120|CP|950|1200</entry>
+<entry key="D70">43.0|140|CP|950|1200</entry>
+<entry key="D75">43.0|140|CP|950|1200</entry>
+<entry key="D77">43.0|140|CP|950|1200</entry>
+<entry key="D78">43.0|140|CP|950|1200</entry>
+<entry key="H1M">43.0|140|CP|950|1200</entry>
+<entry key="G10">43.0|140|CP|950|1200</entry>
+<entry key="G20">43.0|140|CP|950|1200</entry>
+<entry key="FAO">50.0|140|CP|950|1000</entry>
+<entry key="FAT">50.0|140|CP|950|1000</entry>
+<entry key="FOT">50.0|140|CP|950|1000</entry>
+<entry key="FOK">50.0|140|CP|950|1000</entry>
+<entry key="CpuTempVirtualFile">FAO,/sys/class/thermal/thermal_zone6/temp|FAT,/sys/class/thermal/thermal_zone6/temp|FOT,/sys/class/thermal/thermal_zone6/temp|FOK,/sys/class/thermal/thermal_zone6/temp|</entry>
+<entry key="RealTimeAlert">off</entry>
+</properties>
